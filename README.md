@@ -1,13 +1,13 @@
 # 👋 Yo, I’m Pavitra Pandey
 
-> A chill dude trying to build dope stuff and maybe accidentally become a billionaire 💸
+> trying to build dope stuff and maybe accidentally become a billionaire 💸
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=2005pavitra&style=flat-square&color=blue)
 
 ---
 
 ## 👀 What I'm into:
-- 🔧 Full-stack dev with **MERN/MEAN** (yes, I console.log everything)
+- 🔧 Full-stack dev with **MERN** (yes, I console.log everything)
 - ☕ Turning caffeine into code
 - 🎧 Vibing with Arijit Singh while fixing bugs
 - 🧠 Side quests: tabla, gym, bhajans, and bad puns
@@ -15,7 +15,7 @@
 ---
 
 ## 🌱 Currently learning:
-- 📚 **DSA** (Babbar’s Supreme 3.0 — send snacks)
+- 📚 **DSA** (JAVA)
 - 🎤 How to speak in public without crashing like a Node server
 - 🧘‍♂️ Life, bro. Just life.
 
