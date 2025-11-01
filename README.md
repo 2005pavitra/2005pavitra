@@ -29,7 +29,7 @@
 ---
 
 ## 📫 How to reach me:
-- 📧 pavitrapandey.dev@gmail.com  
+- 📧 pavitrapandeysagar@gmail.com  
 - 🐙 [GitHub](https://github.com/2005pavitra)
 
 ---
