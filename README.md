@@ -46,12 +46,16 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN Stack**. I 
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2005pavitra&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=2005pavitra&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=2005pavitra&show_icons=true&theme=radical&v=1" height="180" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=2005pavitra&theme=radical&v=1" height="180" alt="streak graph" />
+</div>
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2005pavitra&layout=compact&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2005pavitra&layout=compact&theme=radical&v=1" height="180" alt="languages graph" />
+</div>
 
 ---
 
