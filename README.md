@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="Pavitra Pandey" width="100%" />
+  <img src="./assets/banner.png" alt="Pavitra Pandey" width="800" />
 </div>
 
 <div align="center">
@@ -47,14 +47,14 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN Stack**. I 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2005pavitra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=2005pavitra&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=2005pavitra&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=2005pavitra&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2005pavitra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2005pavitra&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -69,10 +69,4 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN Stack**. I 
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <!-- Add LinkedIn or Twitter if available -->
-</div>
-
----
-
-<div align="center">
-  <sub>Configured with ❤️ by <b>Antigravity</b></sub>
 </div>
