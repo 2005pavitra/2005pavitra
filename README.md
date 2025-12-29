@@ -37,7 +37,7 @@
     </td>
     <td width="40%" valign="center">
        <div align="center">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2005pavitra&layout=compact&theme=transparent&hide_border=true&title_color=3F51B5&text_color=8b949e" alt="Top Langs" />
+         <img src="https://raw.githubusercontent.com/2005pavitra/2005pavitra/output/github-contribution-grid-snake.svg" alt="snake" />
        </div>
     </td>
   </tr>
@@ -70,8 +70,10 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=2005pavitra&show_icons=true&theme=transparent&hide_border=true&title_color=3F51B5&icon_color=3F51B5&text_color=8b949e&include_all_commits=true&count_private=true" alt="Github Stats" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=2005pavitra&theme=transparent&hide_border=true&title_color=3F51B5&text_color=8b949e&ring_color=3F51B5&fire_color=3F51B5" alt="Streak Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=2005pavitra&show_icons=true&theme=transparent&hide_border=true&title_color=3F51B5&icon_color=3F51B5&text_color=8b949e&include_all_commits=true&count_private=true" alt="Github Stats" />
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=2005pavitra&theme=transparent&hide_border=true&title_color=3F51B5&text_color=8b949e&ring_color=3F51B5&fire_color=3F51B5" alt="Streak Stats" />
+    <br/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2005pavitra&layout=compact&theme=transparent&hide_border=true&title_color=3F51B5&text_color=8b949e" alt="Top Langs" />
   </a>
 </div>
 
