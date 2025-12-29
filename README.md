@@ -1,72 +1,95 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="Pavitra Pandey" width="800" />
-</div>
-
-<div align="center">
-  
-  # 👋 Hi there, I'm Pavitra Pandey
-  
-  ### Full Stack Developer & Open Source Enthusiast
-  
-  <p>
-    <em>"Turning caffeine into code and bugs into features."</em>
-  </p>
-  
-  [![Visitor Badge](https://komarev.com/ghpvc/?username=2005pavitra&style=flat-square&color=2563eb)](https://github.com/2005pavitra)
-  
-</div>
-
----
-
-### 🚀 About Me
-
-I'm a passionate **Full Stack Developer** specializing in the **MERN Stack**. I love building scalable applications, experimenting with new technologies, and contributing to the open-source community. When I'm not coding, you can find me jamming on the **Tabla**, hitting the gym, or vibing to Arijit Singh.
-
-- 🔭 I’m currently working on **Full-Stack Web Applications**
-- 🌱 I’m currently learning **Advanced DSA in Java** & **System Design**
-- 💬 Ask me about **React, Node.js, MongoDB, and Java**
-- ⚡ Fun fact: **I convinced ChatGPT to be my pair programmer.**
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-| Frontend | Backend | Languages & Tools |
-| :---: | :---: | :---: |
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
-| ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) |
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2005pavitra&show_icons=true&theme=radical&v=1" height="180" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=2005pavitra&theme=radical&v=1" height="180" alt="streak graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2005pavitra&layout=compact&theme=radical&v=1" height="180" alt="languages graph" />
-</div>
-
----
-
-### 🤝 Connect With Me
-
-<div align="center">
-  <a href="mailto:pavitrapandeysagar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Hello,+World!;I+Build+Digital+Architectures.;Welcome+to+my+Profile." alt="Typing SVG" />
   </a>
-  <a href="https://github.com/2005pavitra">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  
+  <br/>
+
+  <img src="./assets/banner-light.png#gh-light-mode-only" width="100%">
+  <img src="./assets/banner-dark.png#gh-dark-mode-only" width="100%">
+</div>
+
+---
+
+<div align="center">
+  <code>
+    [ <a href="#-tech-stack">⚙️ TECH_STACK</a> ] •
+    [ <a href="#-mission-log">🚀 PROJECTS</a> ] •
+    [ <a href="#-data-stream">📊 STATISTICS</a> ] •
+    [ <a href="#-comm-link">📫 CONTACT</a> ]
+  </code>
+</div>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3 align="left">👋 About Me</h3>
+      <p>
+        I am a <b>[Your Title]</b> passionate about building scalable systems. I treat code as an art form and architecture as a science. 
+      </p>
+      <p>
+        🔹 <b>Currently working on:</b> [Project Name]<br>
+        🔹 <b>Learning:</b> Rust & WebAssembly<br>
+        🔹 <b>Ask me about:</b> React, Cloud Architecture, Pizza<br>
+        🔹 <b>Secret:</b> There is a hidden link in this profile. <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">.</a>
+      </p>
+    </td>
+    <td width="40%" valign="center">
+       <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3 id="-tech-stack" align="center">⚡ Technologies & Tools</h3>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,nextjs,python,docker,aws,kubernetes,linux,figma,git&perline=10" />
   </a>
-  <!-- Add LinkedIn or Twitter if available -->
+</div>
+
+<br/>
+
+<h3 id="-mission-log">🚀 Selected Mission Logs (Projects)</h3>
+
+| Project | Role | Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **[Project A](LINK)** | Lead Dev | `React` `Node` | 🟢 Live |
+| **[Project B](LINK)** | Architect | `Python` `AWS` | 🟡 In Dev |
+| **[Project C](LINK)** | Contributor | `Go` `Docker` | 🔵 Open Source |
+
+---
+
+<h3 id="-data-stream">📊 Data Stream</h3>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=3F51B5&icon_color=3F51B5&text_color=999" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=3F51B5&text_color=999" />
+  </a>
+</div>
+
+<br/>
+
+<h3 id="-comm-link" align="center">📫 Comm Link</h3>
+
+<div align="center">
+  <a href="https://twitter.com/YOUR_HANDLE">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_PROFILE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </div>
