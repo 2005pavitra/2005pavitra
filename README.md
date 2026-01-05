@@ -5,12 +5,13 @@
   
   <br/>
 
-  <img src="./assets/banner.png" width="100%" alt="Banner">
+  <img src="./assets/banner_v2.png" width="100%" alt="Banner">
 </div>
 
 ---
 
 <div align="center">
+
   <code>
     [ <a href="#-tech-stack">⚙️ TECH STACK</a> ] •
     [ <a href="#-mission-log">🚀 PROJECTS</a> ] •
