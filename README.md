@@ -16,36 +16,25 @@
   <code>
     [ <a href="#-tech-stack">⚙️ TECH STACK</a> ] •
     [ <a href="#-mission-log">🚀 PROJECTS</a> ] •
-    [ <a href="#-data-stream">📊 STATISTICS</a> ] •
     [ <a href="#-comm-link">📫 CONTACT</a> ]
   </code>
 </div>
 
 <br/>
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h3 align="left">👋 About Me</h3>
-      <p>
-        I am a <b>Full Stack Developer</b> passionate about building scalable systems. I treat code as an art form and architecture as a science. 
-      </p>
-      <p>
-        🔹 <b>Currently working on:</b> <a href="https://github.com/2005pavitra/Life-Tracker">LifeCode</a> (Gamified Habit Tracker)<br>
-        🔹 <b>Tech Stack:</b> MERN (MongoDB, Express, React, Node.js)<br>
-        🔹 <b>Ask me about:</b> React, Cloud Architecture, Web Development<br>
-        🔹 <b>Fun Fact:</b> I turn coffee into code and ideas into reality.
-      </p>
-    </td>
-    <td width="40%" valign="center">
-         <picture>
-           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2005pavitra/2005pavitra/output/github-contribution-grid-snake-dark.svg" />
-           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2005pavitra/2005pavitra/output/github-contribution-grid-snake.svg" />
-           <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/2005pavitra/2005pavitra/output/github-contribution-grid-snake.svg" />
-         </picture>
-    </td>
-  </tr>
-</table>
+### 🚀 Engineering Scalable Solutions
+
+I'm a **Full Stack Developer** focused on performance, architecture, and user-centric design. I don't just write code; I build systems that solve real-world problems.
+
+- � **Current Focus:** Building **LifeCode**, a gamified habit tracker pushing the boundaries of user retention strategies.
+- � **The Stack:** ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+- 🤝 **Collaboration:** Open to discussions on System Design, Cloud Architecture, and optimizing MERN applications.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=2005pavitra&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2005pavitra&theme=radical&hide_border=true" height="150" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2005pavitra&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
 
 ---
 
@@ -70,16 +59,7 @@
 
 ---
 
-<h3 id="-data-stream">📊 Data Stream</h3>
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=2005pavitra&show_icons=true&theme=transparent&hide_border=true&title_color=3F51B5&icon_color=3F51B5&text_color=8b949e&include_all_commits=true&count_private=true" alt="Github Stats" />
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=2005pavitra&theme=transparent&hide_border=true&title_color=3F51B5&text_color=8b949e&ring_color=3F51B5&fire_color=3F51B5" alt="Streak Stats" />
-    <br/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2005pavitra&layout=compact&theme=transparent&hide_border=true&title_color=3F51B5&text_color=8b949e" alt="Top Langs" />
-  </a>
-</div>
 
 <br/>
 
