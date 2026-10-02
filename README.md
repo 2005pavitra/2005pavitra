@@ -107,7 +107,7 @@ philosophy: "Architecting software that scales predictably, fails gracefully, an
     </td>
     <td width="45%" align="center" valign="middle">
       <a href="https://github.com/2005pavitra/CareerSignal">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=2005pavitra&repo=CareerSignal&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="CareerSignal Repo Pin" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=2005pavitra&repo=CareerSignal&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" width="100%" alt="CareerSignal Repo Pin" />
       </a>
       <br/><br/>
       <img src="https://img.shields.io/badge/Latency_Cut-65%25-34D399?style=flat-square" alt="Latency Cut" />
