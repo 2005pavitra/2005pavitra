@@ -161,48 +161,6 @@ philosophy: "Architecting software that scales predictably, fails gracefully, an
   </tr>
 </table>
 
-<br/>
-
-<!-- Additional Projects Grid -->
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎮 LifeCode (Life-Tracker)</h3>
-      <p align="center">
-        <b>Gamified Habit & Goal Tracking Architecture</b>
-      </p>
-      <p align="center">
-        <a href="https://github.com/2005pavitra/Life-Tracker"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-      </p>
-      <ul>
-        <li>RPG-inspired habit tracker transforming real-world daily productivity into quest lines, XP progression, and level-ups.</li>
-        <li>Interactive quest trees, streak protection algorithms, and customizable habit categories.</li>
-        <li>Engineered with React, Node.js, Express, MongoDB, and Tailwind CSS.</li>
-      </ul>
-      <p align="center">
-        <code>React</code> • <code>Node.js</code> • <code>Express</code> • <code>MongoDB</code> • <code>Tailwind</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📊 Price-Tracker & Scraper</h3>
-      <p align="center">
-        <b>Automated E-Commerce Price Intelligence</b>
-      </p>
-      <p align="center">
-        <a href="https://github.com/2005pavitra/Price-Tracker-Ecommerce"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-      </p>
-      <ul>
-        <li>Automated web scraping pipeline monitoring multi-vendor product price fluctuations and stock drops.</li>
-        <li>Notification dispatch engine alerting users when historical lowest prices are triggered.</li>
-        <li>Historical price graphing, threshold tracking, and trend analysis dashboard.</li>
-      </ul>
-      <p align="center">
-        <code>Node.js</code> • <code>Cheerio / Puppeteer</code> • <code>Express</code> • <code>MongoDB</code>
-      </p>
-    </td>
-  </tr>
-</table>
-
 ---
 
 <h3 id="-tech-arsenal">🛠️ Tech Arsenal</h3>
