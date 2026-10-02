@@ -81,7 +81,7 @@ philosophy: "Architecting software that scales predictably, fails gracefully, an
 <p>
   <a href="https://resume-ai-eight-zeta.vercel.app"><img src="https://img.shields.io/badge/🚀_Live_Production_App-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
   &nbsp;
-  <a href="https://github.com/2005pavitra/Resume-AI"><img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
+  <a href="https://github.com/2005pavitra/CareerSignal"><img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
   &nbsp;
   <a href="https://hub.docker.com/r/pavitrapandey/resume-ai-backend"><img src="https://img.shields.io/badge/🐳_Docker_Container-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub"/></a>
 </p>
@@ -106,8 +106,8 @@ philosophy: "Architecting software that scales predictably, fails gracefully, an
       </p>
     </td>
     <td width="45%" align="center" valign="middle">
-      <a href="https://github.com/2005pavitra/Resume-AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=2005pavitra&repo=Resume-AI&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="Resume-AI Repo Pin" />
+      <a href="https://github.com/2005pavitra/CareerSignal">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=2005pavitra&repo=CareerSignal&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="CareerSignal Repo Pin" />
       </a>
       <br/><br/>
       <img src="https://img.shields.io/badge/Latency_Cut-65%25-34D399?style=flat-square" alt="Latency Cut" />
